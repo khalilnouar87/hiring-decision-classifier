@@ -1,6 +1,8 @@
 # hiring-decision-classifier
 ML pipeline to predict hiring decisions using candidate skill, interview, and personality scores. Compares 9 classifiers with cross-validation; final model: Logistic Regression
 ---
+Project coop: https://github.com/talebahmedabdelkrim-dev - @talebahmedabdelkrim-dev
+---
 # Hiring Decision Classifier
 
 A machine learning pipeline that predicts whether a candidate will be hired based on their education level, skill score, interview score, and personality score. Includes a Streamlit web app for interactive predictions.
